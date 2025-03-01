@@ -6,7 +6,10 @@ This project aims to develop a collaborative filtering-based movie recommendatio
 ## Why Collabarative?
 Consider case where you liked a movie, you tell your friends that the movie you liked and suggest them that movie. So the idea of collaborative filtering is to give recommendation based on what similar user like.
 Furthermore, Collaborative filtering not only can be used as candidate generator for a Recommendation system, but also can be used for make recommendations itself.
-
+## Dataset
+I used small movielens dataset
+https://files.grouplens.org/datasets/movielens/ml-latest-small.
+zip .
 ## Features
 
 - **Collaborative Filtering:** Provides personalized movie recommendations based on user ratings.
