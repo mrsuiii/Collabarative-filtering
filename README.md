@@ -24,7 +24,7 @@ This recommendation system personalizes the user experience by suggesting movies
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/mrsuiii/Collabarative-filtering-RecSystem.git
+   git clone https://github.com/mrsuiii/Collaborative-filtering-RecSystem.git
 2. **Install Requirements**
    ```bash
    pip install numpy pandas torch
